@@ -1,0 +1,881 @@
+# RuntimeError: There is no current event loop in thread 'django-main-thread' · Issue #271 · erdewit/ib_insync
+# asyncio # ib_insync #
+
+
+RuntimeError: There is no current event loop in thread 'django-main-thread' · Issue #271 · erdewit/ib\_insync                                             
+
+[Skip to content](#start-of-content)
+
+ *   In this repository All GitHub ↵
+    
+    Jump to ↵
+    
+
+*   No suggested jump to results
+
+*   In this repository All GitHub ↵
+    
+    Jump to ↵
+    
+*   In this user All GitHub ↵
+    
+    Jump to ↵
+    
+*   In this repository All GitHub ↵
+    
+    Jump to ↵
+
+[Dashboard](/dashboard) [Pull requests](/pulls) [Issues](/issues) [Codespaces](/codespaces)
+
+[Marketplace](/marketplace)
+
+[Explore](/explore) [Sponsors](/sponsors/accounts) [Settings](/settings/profile) [![](https://avatars.githubusercontent.com/u/112351138?s=40&v=4)
+ luketychtrading](/luketychtrading) 
+
+ Sign out 
+
+[New repository](/new) [Import repository](/new/import) [New gist](https://gist.github.com/) [New organization](/organizations/new)
+
+ ![](https://avatars.githubusercontent.com/u/112351138?s=40&v=4)  
+
+Sorry, something went wrong.
+
+/  ...  /  
+
+erdewit  /   ib\_insync  /   Issues #271  /  
+
+ 
+
+Clear Command Palette
+
+Tip: Type # to search pull requests
+
+Type ? for help and tips
+
+Tip: Type # to search issues
+
+Type ? for help and tips
+
+Tip: Type # to search discussions
+
+Type ? for help and tips
+
+Tip: Type ! to search projects
+
+Type ? for help and tips
+
+Tip: Type @ to search teams
+
+Type ? for help and tips
+
+Tip: Type @ to search people and organizations
+
+Type ? for help and tips
+
+Tip: Type \> to activate command mode
+
+Type ? for help and tips
+
+Tip: Go to your accessibility settings to change your keyboard shortcuts
+
+Type ? for help and tips
+
+Tip: Type author:@me to search your content
+
+Type ? for help and tips
+
+Tip: Type is:pr to filter to pull requests
+
+Type ? for help and tips
+
+Tip: Type is:issue to filter to issues
+
+Type ? for help and tips
+
+Tip: Type is:project to filter to projects
+
+Type ? for help and tips
+
+Tip: Type is:open to filter to open content
+
+Type ? for help and tips
+
+We’ve encountered an error and some results aren't available at this time. Type a new search or try again later.
+
+No results matched your search
+
+Top result
+
+Commands Type > to filter
+
+Global Commands Type > to filter
+
+This Page
+
+Files
+
+Pages
+
+Access Policies
+
+Organizations
+
+Repositories
+
+Issues, pull requests, and discussions Type # to filter
+
+Teams
+
+Users
+
+Projects
+
+Modes
+
+Use filters in issues, pull requests, discussions, and projects
+
+Search for **issues** and **pull requests** # Search for **issues, pull requests, discussions,** and **projects** # Search for **organizations, repositories,** and **users** @ Search for **projects** ! Search for **files** / Activate **command mode** \> Search your issues, pull requests, and discussions \# author:@me Search your issues, pull requests, and discussions \# author:@me Filter to pull requests \# is:pr Filter to issues \# is:issue Filter to discussions \# is:discussion Filter to projects \# is:project Filter to open issues, pull requests, and discussions \# is:open
+
+[erdewit](/erdewit) / **[ib\_insync](/erdewit/ib_insync)** Public
+
+*   Sponsor
+    
+    ### Sponsor erdewit/ib\_insync
+    
+*   Unwatch Stop ignoring Watch 164
+    
+    ### Notifications
+    
+        
+    
+    Participating and @mentions
+    
+    Only receive notifications from this repository when participating or @mentioned.
+    
+    All Activity
+    
+    Notified of all notifications on this repository.
+    
+    Ignore
+    
+    Never be notified.
+    
+    Custom
+    
+    Select events you want to be notified of in addition to participating and @mentions.
+    
+    Get push notifications on [iOS](https://apps.apple.com/app/apple-store/id1477376905?ct=watch-dropdown&mt=8&pt=524675) or [Android](https://play.google.com/store/apps/details?id=com.github.android&referrer=utm_campaign%3Dwatch-dropdown%26utm_medium%3Dweb%26utm_source%3Dgithub).
+    
+     Custom
+    ======
+    
+    Custom
+    ======
+    
+    Select events you want to be notified of in addition to participating and @mentions.
+    
+     Issues 
+    
+     Pull requests 
+    
+     Releases 
+    
+     Discussions 
+    
+     Security alerts 
+    
+    Apply Cancel
+    
+*   [Fork 494](/erdewit/ib_insync/fork)
+    
+*        Starred  1.9k
+    
+        Star  1.9k
+    
+
+*   [Code](/erdewit/ib_insync)
+*   [Issues 5](/erdewit/ib_insync/issues)
+*   [Pull requests 0](/erdewit/ib_insync/pulls)
+*   [Discussions](/erdewit/ib_insync/discussions)
+*   [Actions](/erdewit/ib_insync/actions)
+*   [Projects 0](/erdewit/ib_insync/projects)
+*   [Security](/erdewit/ib_insync/security)
+*   [Insights](/erdewit/ib_insync/pulse)
+
+More
+
+*   [Code](/erdewit/ib_insync)
+*   [Issues](/erdewit/ib_insync/issues)
+*   [Pull requests](/erdewit/ib_insync/pulls)
+*   [Discussions](/erdewit/ib_insync/discussions)
+*   [Actions](/erdewit/ib_insync/actions)
+*   [Projects](/erdewit/ib_insync/projects)
+*   [Security](/erdewit/ib_insync/security)
+*   [Insights](/erdewit/ib_insync/pulse)
+
+[New issue](/erdewit/ib_insync/issues/new/choose)
+
+[Jump to bottom](#issue-comment-box)
+
+RuntimeError: There is no current event loop in thread 'django-main-thread' #271
+================================================================================
+
+Closed
+
+[juan9222](/juan9222) opened this issue on Jun 29, 2020 · 10 comments
+
+Closed
+
+[RuntimeError: There is no current event loop in thread 'django-main-thread'](#top) #271
+========================================================================================
+
+[juan9222](/juan9222) opened this issue on Jun 29, 2020 · 10 comments
+
+Comments
+--------
+
+[![](https://avatars.githubusercontent.com/u/45617485?s=88&u=6a845930d350bd590718eb77d7500c9d44d857c1&v=4)
+](/juan9222)
+
+ *   👍
+*   👎
+*   😄
+*   🎉
+*   😕
+*   ❤️
+*   🚀
+*   👀
+
+Sorry, something went wrong.
+
+Quote reply
+
+### **[juan9222](/juan9222)** commented [on Jun 29, 2020](#issue-647442494)
+
+| 
+
+Hi, I'm trying to integrate ib-insync with django using django-channels to get real time data from interactive brokers using a socket and using reqTickByTickData. But I'm struggling with the initial connection.
+
+I wrote this line of code in services.py:
+
+```
+import json, nest_asyncio, asyncio
+from ib_insync import *
+ib = IB()
+def connect_to_ib(): 
+    print("Starting IB")
+    ib_connection = ib.connect('127.0.0.1', 4002, clientId=1,timeout=4, readonly=False, account='')
+    print("IB is Connected?", ib.isConnected())
+    return ib_connection 
+```
+
+but I'm getting this error:
+
+`RuntimeError: There is no current event loop in thread 'django-main-thread'`
+
+It worked in the past briefly and get an ib Object but I don't know why It fails now.
+
+I read [#33](https://github.com/erdewit/ib_insync/issues/33) and [#167](https://github.com/erdewit/ib_insync/issues/167) in order to solve this error but the problem persist.
+
+```
+def create_evenloop():
+    print("Starting Event Loop")
+    loop = asyncio.new_event_loop()
+    asyncio.set_event_loop(loop)
+    nest_asyncio.apply() 
+```
+
+Those functions were called in a consumer in django channels, (normally django is blocking but AsyncWebsocketConsumer from channels make non-blocking code inside PlotterConsumer class )
+
+```
+class PlotterConsumer(AsyncWebsocketConsumer):
+    create_evenloop()
+    ib = connect_to_ib()
+    ... 
+```
+
+
+
+ |
+| 
+
+The text was updated successfully, but these errors were encountered:
+
+
+
+ |
+
+ 
+
+All reactions
+
+[![](https://avatars.githubusercontent.com/u/291685?s=88&u=da010181e311fd793efb9765c153f426ad8e9c05&v=4)
+](/goodboy)
+
+ *   👍
+*   👎
+*   😄
+*   🎉
+*   😕
+*   ❤️
+*   🚀
+*   👀
+
+Sorry, something went wrong.
+
+Quote reply
+
+### **[goodboy](/goodboy)** commented [on Jun 29, 2020](#issuecomment-651191112)
+
+| 
+
+🤣 [@juan9222](https://github.com/juan9222) checkout [#262](https://github.com/erdewit/ib_insync/issues/262) and [#264](https://github.com/erdewit/ib_insync/issues/264).
+
+The long story short is there is no synchronous api for you to use currently and if you want to integrate `asyncio` with other concurrency frameworks you have to know what you're doing. Nesting event loops will do nothing to help (and generally speaking is a dirty hack anyway).
+
+ |
+
+ 
+
+All reactions
+
+ 
+
+Sorry, something went wrong.
+
+[![](https://avatars.githubusercontent.com/u/45617485?s=88&u=6a845930d350bd590718eb77d7500c9d44d857c1&v=4)
+](/juan9222)
+
+ *   👍
+*   👎
+*   😄
+*   🎉
+*   😕
+*   ❤️
+*   🚀
+*   👀
+
+Sorry, something went wrong.
+
+Quote reply
+
+Author
+
+### **[juan9222](/juan9222)** commented [on Jun 29, 2020](#issuecomment-651286834)
+
+| 
+
+> 🤣 [@juan9222](https://github.com/juan9222) checkout [#262](https://github.com/erdewit/ib_insync/issues/262) and [#264](https://github.com/erdewit/ib_insync/issues/264).
+> 
+> The long story short is there is no synchronous api for you to use currently and if you want to integrate `asyncio` with other concurrency frameworks you have to know what you're doing. Nesting event loops will do nothing to help (and generally speaking is a dirty hack anyway).
+
+So it means that i have to use IB API obligatorily?
+
+ |
+
+ 
+
+All reactions
+
+ 
+
+Sorry, something went wrong.
+
+[![](https://avatars.githubusercontent.com/u/12393337?s=88&v=4)
+](/drusakov778)
+
+ *   👍
+*   👎
+*   😄
+*   🎉
+*   😕
+*   ❤️
+*   🚀
+*   👀
+
+Sorry, something went wrong.
+
+Quote reply
+
+### **[drusakov778](/drusakov778)** commented [on Jun 29, 2020](#issuecomment-651295849) •
+
+edited
+
+| 
+
+no, I think goodboy has exaggerated the situation a bit in his response.
+
+You can use ib\_insync with any asyncio framework, but you should be careful to call async functions only, since all the sync-functions use the patching on the build-in python asyncio loop, which is obviously not working when you use non-native event loop. So, basic idea with any app which already has async-io capabilities - (1) start the app and it's own event loop, (2) call all only "async def xxxAsync()" functions from ib\_insync framework (from your app's async functions)
+
+The best place to look how it is done and ask additional questions is probably the ib-insync discussion group, which has plenty of posts on the subject  
+[https://groups.io/g/insync](https://groups.io/g/insync)
+
+ |
+
+ 
+
+👍 1 juan9222 reacted with thumbs up emoji All reactions
+
+*   👍 1 reaction
+
+ *   👍
+*   👎
+*   😄
+*   🎉
+*   😕
+*   ❤️
+*   🚀
+*   👀
+
+ 
+
+Sorry, something went wrong.
+
+[![](https://avatars.githubusercontent.com/u/291685?s=88&u=da010181e311fd793efb9765c153f426ad8e9c05&v=4)
+](/goodboy)
+
+ *   👍
+*   👎
+*   😄
+*   🎉
+*   😕
+*   ❤️
+*   🚀
+*   👀
+
+Sorry, something went wrong.
+
+Quote reply
+
+### **[goodboy](/goodboy)** commented [on Jun 29, 2020](#issuecomment-651302296)
+
+| 
+
+> So it means that i have to use IB API obligatorily?
+
+[@juan9222](https://github.com/juan9222) no it means to use it with a non-`asyncio` framework (in an actual synchronous way) you have launch `ib_insync`'s event loop in another thread (just like you have to with every single-threaded asynchronous I/O system ever). If you want to understand the details just read [#262](https://github.com/erdewit/ib_insync/issues/262).
+
+Don't worry this isn't your fault. The documentation is extremely unclear about this.
+
+ |
+
+ 
+
+All reactions
+
+ 
+
+Sorry, something went wrong.
+
+[![](https://avatars.githubusercontent.com/u/45617485?s=88&u=6a845930d350bd590718eb77d7500c9d44d857c1&v=4)
+](/juan9222)
+
+ *   👍
+*   👎
+*   😄
+*   🎉
+*   😕
+*   ❤️
+*   🚀
+*   👀
+
+Sorry, something went wrong.
+
+Quote reply
+
+Author
+
+### **[juan9222](/juan9222)** commented [on Jun 29, 2020](#issuecomment-651352660) •
+
+edited
+
+| 
+
+> no, I think goodboy has exaggerated the situation a bit in his response.
+> 
+> You can use ib\_insync with any asyncio framework, but you should be careful to call async functions only, since all the sync-functions use the patching on the build-in python asyncio loop, which is obviously not working when you use non-native event loop. So, basic idea with any app which already has async-io capabilities - (1) start the app and it's own event loop, (2) call all only "async def xxxAsync()" functions from ib\_insync framework (from your app's async functions)
+> 
+> The best place to look how it is done and ask additional questions is probably the ib-insync discussion group, which has plenty of posts on the subject  
+> [https://groups.io/g/insync](https://groups.io/g/insync)
+
+To be honest I saw all topics about this error in [https://groups.io/g/insync](https://groups.io/g/insync) but I still don't get it.
+
+I used keywords "runtime error" and "django", but I didn't saw something useful about it to apply inside my code.
+
+I already did this on settings.py while I was reading this [https://docs.djangoproject.com/en/3.0/topics/async/](https://docs.djangoproject.com/en/3.0/topics/async/) in order to enable async support. But it was futile.
+
+```
+os.environ["DJANGO_ALLOW_ASYNC_UNSAFE"] = "true" 
+```
+
+I already worked with async code with Javascript and Node.js .I know a little bit about concurrency and event loops applied to async code. But I think I'm missing something important about it under the hood.
+
+I nested the event loop because I was getting another error
+
+```
+RuntimeError: Cannot run the event loop while another loop is running 
+```
+
+In the forum they don't talk about django-main-thread, and everyone with Runtime error refers to 'Dummy-Thread' instead.
+
+In [#262](https://github.com/erdewit/ib_insync/issues/262) I read about future improvements to the library. Specially for sync users, but honestly It's way better work in async mode (regardless I didn't implemented it on my own code). I just need to connect.
+
+Honestly I got everything working using IB API but I want to make it with ib\_insync because it abstracts IB API pretty good in a async way (and it's working fine in a single code outside my django project) It's like a conflict between django and ib\_insync.
+
+Do I have to install tornado (or another asyncio framework) in order to work properly? (I'm using django-channels tho)
+
+ |
+
+ 
+
+All reactions
+
+ 
+
+Sorry, something went wrong.
+
+[![](https://avatars.githubusercontent.com/u/45617485?s=88&u=6a845930d350bd590718eb77d7500c9d44d857c1&v=4)
+](/juan9222)
+
+ *   👍
+*   👎
+*   😄
+*   🎉
+*   😕
+*   ❤️
+*   🚀
+*   👀
+
+Sorry, something went wrong.
+
+Quote reply
+
+Author
+
+### **[juan9222](/juan9222)** commented [on Jun 29, 2020](#issuecomment-651369145) •
+
+edited
+
+| 
+
+> no, I think goodboy has exaggerated the situation a bit in his response.
+> 
+> You can use ib\_insync with any asyncio framework, but you should be careful to call async functions only, since all the sync-functions use the patching on the build-in python asyncio loop, which is obviously not working when you use non-native event loop. So, basic idea with any app which already has async-io capabilities - (1) start the app and it's own event loop, (2) call all only "async def xxxAsync()" functions from ib\_insync framework (from your app's async functions)
+> 
+> The best place to look how it is done and ask additional questions is probably the ib-insync discussion group, which has plenty of posts on the subject  
+> [https://groups.io/g/insync](https://groups.io/g/insync)
+
+I think I partially solved my problem following your instructions.
+
+```
+(1) start the app and it's own event loop 
+```
+
+Inside my django channels consumer class I have a coroutine method called "price" and inside it I put `await create_evenloop()` like this:
+
+```
+ async def price(self, event):
+        await create_evenloop()
+        ib = await connect_to_ib()
+        message =  "Hi"
+        await self.send(text_data=json.dumps({
+            'message': message
+        })) 
+```
+
+A pair of awaits inside the coroutine for create event loop and for ib connect method.
+
+```
+ (2) call all only "async def xxxAsync()" 
+```
+
+Then I just rename my functions as coroutines with `async def create_evenloop():` and `async def connect_to_ib():`
+
+but I'm getting this error right now
+
+```
+RuntimeError: Cannot enter into task <Task pending name='Task-12' coro=<RedisChannelLayer._clean_receive_backup() 
+```
+
+I'm using redis for caching.
+
+ |
+
+ 
+
+All reactions
+
+ 
+
+Sorry, something went wrong.
+
+[![](https://avatars.githubusercontent.com/u/12393337?s=88&v=4)
+](/drusakov778)
+
+ *   👍
+*   👎
+*   😄
+*   🎉
+*   😕
+*   ❤️
+*   🚀
+*   👀
+
+Sorry, something went wrong.
+
+Quote reply
+
+### **[drusakov778](/drusakov778)** commented [on Jun 29, 2020](#issuecomment-651370983)
+
+| 
+
+I think this topic is more appropriate for [https://groups.io/g/insync](https://groups.io/g/insync). That group is quite active and I am sure people will be able to help you there.
+
+ |
+
+ 
+
+All reactions
+
+ 
+
+Sorry, something went wrong.
+
+[![](https://avatars.githubusercontent.com/u/3875748?s=88&u=a1e1ca6821cc0fbe4b574ddba34a029252247ba6&v=4)
+](/erdewit)
+
+ *   👍
+*   👎
+*   😄
+*   🎉
+*   😕
+*   ❤️
+*   🚀
+*   👀
+
+Sorry, something went wrong.
+
+Quote reply
+
+Owner
+
+### **[erdewit](/erdewit)** commented [on Jul 1, 2020](#issuecomment-652501427)
+
+| 
+
+> `RuntimeError: There is no current event loop in thread 'django-main-thread'`
+
+It's probably just a matter of deploying it properly for asyncio:  
+[https://channels.readthedocs.io/en/latest/deploying.html#configuring-the-asgi-application](https://channels.readthedocs.io/en/latest/deploying.html#configuring-the-asgi-application)
+
+That should present a running event loop, and after that it's a matter of using async-compatible code only, as [@drusakov778](https://github.com/drusakov778) already said. This includes connectAsync instead of connect.
+
+Creating a new event loop, nesting the loop or running in a separate thread is all unnecessary.
+
+ |
+
+ 
+
+All reactions
+
+ 
+
+Sorry, something went wrong.
+
+[![](https://avatars.githubusercontent.com/u/3875748?s=60&u=a1e1ca6821cc0fbe4b574ddba34a029252247ba6&v=4)
+](/erdewit) [erdewit](/erdewit) closed this as [completed](/erdewit/ib_insync/issues?q=is%3Aissue+is%3Aclosed+archived%3Afalse+reason%3Acompleted) [on Jul 1, 2020](#event-3503119144)
+
+[![](https://avatars.githubusercontent.com/u/45617485?s=88&u=6a845930d350bd590718eb77d7500c9d44d857c1&v=4)
+](/juan9222)
+
+ *   👍
+*   👎
+*   😄
+*   🎉
+*   😕
+*   ❤️
+*   🚀
+*   👀
+
+Sorry, something went wrong.
+
+Quote reply
+
+Author
+
+### **[juan9222](/juan9222)** commented [on Jul 5, 2020](#issuecomment-653883954)
+
+| 
+
+Thank you [@goodboy](https://github.com/goodboy), [@erdewit](https://github.com/erdewit) and [@drusakov778](https://github.com/drusakov778) for your help. You guys are right, I didn't had the need to use nest\_asyncio or create a new event loop. Everything was running inside django's main thread so I was forced to write async code only to make it work properly. I solved my problem this way:
+
+```
+from ib_insync import *
+
+async def connectToIB(): 
+    ib = IB()
+    print("Starting IB")
+    ibConnectionPromise = ib.connectAsync('127.0.0.1', 4002, clientId=1,timeout=4, readonly=False, account='')
+    return ibConnectionPromise
+    
+async def requestTick(ibConnectionPromise):
+    ib = await ibConnectionPromise
+    currentTimePromise = ib.reqCurrentTimeAsync()
+    currentTime = await currentTimePromise
+    currentTimeString = currentTime.strftime("%d-%b-%Y (%H:%M:%S.%f)")
+    return currentTimeString
+
+async def disconnect_to_ib(ibConnectionPromise):
+    ib = await ibConnectionPromise
+    ib.disconnect() 
+```
+
+Right now I'm continuing the issue trying to get real time data in the forum that [@drusakov778](https://github.com/drusakov778) mentioned above, right now it's pending to approve [https://groups.io/g/insync/topics](https://groups.io/g/insync/topics).
+
+ |
+
+ 
+
+All reactions
+
+ 
+
+Sorry, something went wrong.
+
+[![](https://avatars.githubusercontent.com/u/90811538?s=88&u=49051ef711cb3be41e3cbaaaa8a1040394bbfa88&v=4)
+](/jchow-hedgedesk)
+
+ *   👍
+*   👎
+*   😄
+*   🎉
+*   😕
+*   ❤️
+*   🚀
+*   👀
+
+Sorry, something went wrong.
+
+Quote reply
+
+### **[jchow-hedgedesk](/jchow-hedgedesk)** commented [on Jun 27](#issuecomment-1167817423)
+
+| 
+
+[@juan9222](https://github.com/juan9222) was this ever resolved? I'm running into the same issue when trying to run my local server in django
+
+ |
+
+ 
+
+All reactions
+
+ 
+
+Sorry, something went wrong.
+
+ 
+
+[![](https://avatars.githubusercontent.com/u/112351138?s=80&v=4)
+](/luketychtrading)
+
+  
+
+Write Preview
+
+Add heading text Add bold text, <Cmd+b> Add italic text, <Cmd+i>
+
+Add a quote, <Cmd+Shift+.> Add code, <Cmd+e> Add a link, <Cmd+k>
+
+Add a bulleted list, <Cmd+Shift+8> Add a numbered list, <Cmd+Shift+7> Add a task list, <Cmd+Shift+l>
+
+Directly mention a user or team Reference an issue, pull request, or discussion
+
+Select a reply `ctrl .`
+
+Add saved reply
+
+Add heading text Add bold text, <Cmd+b> Add italic text, <Cmd+i> Add a bulleted list, <Cmd+Shift+8> Add a numbered list, <Cmd+Shift+7> Add a task list, <Cmd+Shift+l>
+
+There was an error creating your Issue.
+
+ Attach files by dragging & dropping, selecting or pasting them.     Uploading your files…    We don’t support that file type.  Try again with a GIF, JPEG, JPG, MOV, MP4, PNG, SVG, WEBM, CSV, DOCX, FODG, FODP, FODS, FODT, GZ, LOG, MD, ODF, ODG, ODP, ODS, ODT, PDF, PPTX, TGZ, TXT, XLS, XLSX or ZIP.    Attaching documents requires write permission to this repository.  Try again with a GIF, JPEG, JPG, MOV, MP4, PNG, SVG, WEBM, CSV, DOCX, FODG, FODP, FODS, FODT, GZ, LOG, MD, ODF, ODG, ODP, ODS, ODT, PDF, PPTX, TGZ, TXT, XLS, XLSX or ZIP.    We don’t support that file type.  Try again with a GIF, JPEG, JPG, MOV, MP4, PNG, SVG, WEBM, CSV, DOCX, FODG, FODP, FODS, FODT, GZ, LOG, MD, ODF, ODG, ODP, ODS, ODT, PDF, PPTX, TGZ, TXT, XLS, XLSX or ZIP.     This file is empty.  Try again with a file that’s not empty.    This file is hidden.  Try again with another file.    Something went really wrong, and we can’t process that file.  Try again.    [  ](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) Styling with Markdown is supported 
+
+        
+
+Nothing to preview
+
+Comment
+
+Remember, contributions to this repository should follow our [GitHub Community Guidelines](https://docs.github.com/articles/github-community-guidelines).
+
+![](https://github.githubassets.com/images/email/sponsors/mona.png)
+ Show your support for [erdewit](/erdewit) by sponsoring them. 
+
+Sponsor
+
+### Sponsor erdewit/ib\_insync
+
+Assignees
+
+No one assigned
+
+Labels
+
+None yet
+
+Projects
+
+None yet
+
+Milestone
+
+No milestone
+
+Development
+
+No branches or pull requests
+
+Notifications
+
+Customize
+
+### Notification settings
+
+![](https://github.githubassets.com/images/spinners/octocat-spinner-64.gif)
+
+     Subscribe 
+
+You’re not receiving notifications from this thread.
+
+5 participants
+
+ [![](https://avatars.githubusercontent.com/u/291685?s=52&v=4)](/goodboy) [ ![](https://avatars.githubusercontent.com/u/3875748?s=52&v=4)
+ ](/erdewit) [ ![](https://avatars.githubusercontent.com/u/12393337?s=52&v=4)
+ ](/drusakov778) [ ![](https://avatars.githubusercontent.com/u/45617485?s=52&v=4)
+ ](/juan9222) [![](https://avatars.githubusercontent.com/u/90811538?s=52&v=4)](/jchow-hedgedesk) 
+
+Footer
+------
+
+[](https://github.com "GitHub")© 2022 GitHub, Inc.
+
+### Footer navigation
+
+*   [Terms](https://docs.github.com/en/github/site-policy/github-terms-of-service)
+*   [Privacy](https://docs.github.com/en/github/site-policy/github-privacy-statement)
+*   [Security](https://github.com/security)
+*   [Status](https://www.githubstatus.com/)
+*   [Docs](https://docs.github.com)
+*   [Contact GitHub](https://support.github.com?tags=dotcom-footer)
+*   [Pricing](https://github.com/pricing)
+*   [API](https://docs.github.com)
+*   [Training](https://services.github.com)
+*   [Blog](https://github.blog)
+*   [About](https://github.com/about)
+
+You can’t perform that action at this time.
+
+You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session.
+
+You have no unread notifications
